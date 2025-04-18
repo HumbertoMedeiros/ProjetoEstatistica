@@ -1,32 +1,27 @@
 # Projeto de Estatística Aplicada
 
 ## 🧑‍💻 Autores  
-- Nome 1 (matrícula) - email  
-- Nome 2 (matrícula) - email  
-- Nome 3 (matrícula) - email  
+- José Humberto Lopes de Medeiros (202421250041) - humberto.medeiros@academico.ifpb.edu.br 
 
 ## 🎯 Tema e Motivação  
-Descreva em até dois parágrafos o tema que será investigado no projeto e a motivação da equipe para essa escolha.  
-Explique por que esse tema é relevante ou interessante do ponto de vista estatístico ou social.
+O projeto tentará trazer à luz possíveis causas do baixo número de alunos conluintes do ensino médio nas redes estaduais de ensino, que ingressam na educação superior logo no ano seguinte. Os números do último censo da educação superior mostraram que esse número é bem menor em relação aos alunos oriundos das escolas federais e das escolas da rede privada.
 
 ## 📊 Conjunto de Dados Selecionado  
-- **Nome do conjunto de dados:**  
-  (Exemplo: "World Happiness Report", "ENEM 2023", "IBGE - PNAD Contínua", "Kaggle - Netflix Movies", etc.)
-
+- Censo da Educação Superior 2023
+  
 - **Fonte:**  
-  (Link ou citação da base de dados)
-
-- **Descrição breve:**  
-  Explique o que representa esse conjunto de dados, qual o escopo (temporal, geográfico, etc.), quais as principais variáveis presentes e o motivo pelo qual ele foi escolhido.  
+  https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/resultados
 
 - **Justificativa para a escolha:**  
-  Indique por que esse conjunto de dados permite análises estatísticas interessantes e como ele pode responder a questões relevantes.
-
----
+   O censo da Educação Superior é o instrumento de pesquisa mais completo do país nos que diz respeito as questões relativas as instituições de ensino superior, aos docentes, técnicos administrativos e principalmente, aos alunos. A escolha se dá pelo fato de o censo apresentar estatísticas confiáveis e que permitem conhecer profundamente a situação do sistema brasileiro de educação superior.
 
 ## ❓ Perguntas ou Hipóteses  
-*Começar a planejar com perguntas de Estatística Descritiva*  
-Liste aqui as perguntas de pesquisa ou hipóteses estatísticas que o grupo pretende investigar com base nos dados.
+- Por que as escolas das redes estaduais não conseguem acompanhar os bons resultados da escolas da rede federal e da rede privada de ensino?
+
+- Existe de fato uma grande diferença entre os investimentos feitos nas escolas estaduais e os investimentos feitos nas escolas federais?
+
+- Qual a responsabilidade dos alunos diante da diferença de resultados no censo da educação superior?
+
 
 ## 🔍 Metodologia  
 *A preencher na próxima etapa.*  
