@@ -4,7 +4,7 @@
 - José Humberto Lopes de Medeiros (202421250041) - humberto.medeiros@academico.ifpb.edu.br 
 
 ## 🎯 Tema e Motivação  
-O projeto tentará trazer à luz possíveis causas do baixo número de alunos conluintes do ensino médio nas redes estaduais de ensino, que ingressam na educação superior logo no ano seguinte. Os números do último censo da educação superior mostraram que esse número é bem menor em relação aos alunos oriundos das escolas federais e das escolas da rede privada.
+O projeto tentará trazer à luz possíveis causas do baixo número de alunos concluintes do ensino médio nas redes estaduais de ensino, que ingressam na educação superior logo no ano seguinte. Os números do último censo da educação superior mostraram que esse número é bem menor em relação aos alunos oriundos das escolas federais e das escolas da rede privada.
 
 ## 📊 Conjunto de Dados Selecionado  
 - Censo da Educação Superior 2023
